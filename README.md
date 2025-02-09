@@ -1,4 +1,4 @@
-A Technical Examination of an Advanced Bearing Control System Utilizing Wavelet Transforms and Attention-Based Sensor Fusion
+## A Technical Examination of an Advanced Bearing Control System Utilizing Wavelet Transformsand Attention-Based Sensor Fusion
 ________________________________________
 
 ________________________________________
